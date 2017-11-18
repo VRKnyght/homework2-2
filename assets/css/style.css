@@ -1,0 +1,16 @@
+
+
+.social {
+	height: 80px;
+	width: 80px;
+}
+
+.footer {
+	background-color: #eee;
+	text-align: center;
+	position: fixed;
+	bottom: 0;
+	left: 0;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
